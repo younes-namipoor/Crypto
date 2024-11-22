@@ -12,7 +12,7 @@
 
 
 
-- [Demo Project]([https://younes-namipoor.github.io/slider/](https://younes-namipoor.github.io/Crypto/))
+- [Demo Project](https://younes-namipoor.github.io/Crypto/)
 
 - Coded By Younes namipoor
 
